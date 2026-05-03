@@ -12,9 +12,10 @@
   "app": {
     "windows": [
       {
-        "title": "meu-primeiro-app",
+        "title": "React + Tauri",
         "width": 800,
-        "height": 600
+        "height": 600,
+        "resizable": true
       }
     ],
     "security": {
